@@ -1,0 +1,21 @@
+h1
+{
+    text-align: center;
+    background-color: blue;
+	color: orange;
+}
+body{
+ background:linear-gradient(to top, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%); 
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+p
+{
+        font-family: Verdana;
+        font-style: italic;
+        color: green;
+}      

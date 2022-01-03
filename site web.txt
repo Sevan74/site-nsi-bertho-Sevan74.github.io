@@ -1,0 +1,6 @@
+		Les attendus 
+
+un dossier bien rangé
+plusieurs pages html reliées entre elles
+une feuille de style à part 
+un fichier java script à part
